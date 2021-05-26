@@ -11,9 +11,9 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('Romulus')
+    print_hi('Romulus Dias')
 
-for num in range(2, 100):
+for num in range(2, 400):
         if num % 2 == 0:
             print("Found an even number", num)
             continue
